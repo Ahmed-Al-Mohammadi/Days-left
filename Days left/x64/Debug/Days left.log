@@ -1,0 +1,4 @@
+﻿  Days left.cpp
+C:\vs code\c++\Days left\Days left\Days left\Days left.cpp(26,11): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\vs code\c++\Days left\Days left\Days left\Days left.cpp(7,12): warning C4101: 'tm_now': unreferenced local variable
+  Days left.vcxproj -> C:\vs code\c++\Days left\Days left\x64\Debug\Days left.exe
